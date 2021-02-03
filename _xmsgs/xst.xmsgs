@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/ise/Desktop/djordje_ilic_648_projekat/koder.v" Line 81: Port <arg fmt="%s" index="1">indeks</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/ise/Desktop/djordje_ilic_648_projekat/koder.v" Line 82: Port <arg fmt="%s" index="1">ime</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/ise/Desktop/djordje_ilic_648_projekat/koder.v" Line 84: Port <arg fmt="%s" index="1">ulaz_2</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/ise/Desktop/djordje_ilic_648_projekat/koder.v" Line 85: Port <arg fmt="%s" index="1">ulaz_1</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"/home/ise/Desktop/djordje_ilic_648_projekat/koder.v" Line 42: Result of <arg fmt="%d" index="1">33</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">13</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"/home/ise/Desktop/djordje_ilic_648_projekat/koder.v" Line 58: Result of <arg fmt="%d" index="1">41</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">40</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"/home/ise/Desktop/djordje_ilic_648_projekat/koder.v" Line 60: Result of <arg fmt="%d" index="1">41</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">40</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"/home/ise/Desktop/djordje_ilic_648_projekat/koder.v" Line 63: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">12</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"/home/ise/Desktop/djordje_ilic_648_projekat/koder.v" Line 65: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">12</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="552" delta="old" >"/home/ise/Desktop/djordje_ilic_648_projekat/koder.v" Line 81: Input port <arg fmt="%s" index="1">indeks[11]</arg> is not connected on this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="552" delta="old" >"/home/ise/Desktop/djordje_ilic_648_projekat/koder.v" Line 82: Input port <arg fmt="%s" index="1">ime[39]</arg> is not connected on this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="552" delta="old" >"/home/ise/Desktop/djordje_ilic_648_projekat/koder.v" Line 84: Input port <arg fmt="%s" index="1">ulaz_2[12]</arg> is not connected on this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="552" delta="old" >"/home/ise/Desktop/djordje_ilic_648_projekat/koder.v" Line 85: Input port <arg fmt="%s" index="1">ulaz_1[40]</arg> is not connected on this instance
+</msg>
+
+<msg type="warning" file="Xst" num="2898" delta="old" >Port &apos;<arg fmt="%s" index="1">indeks</arg>&apos;, unconnected in block instance &apos;<arg fmt="%s" index="2">u1</arg>&apos;, is tied to GND.
+</msg>
+
+<msg type="warning" file="Xst" num="2898" delta="old" >Port &apos;<arg fmt="%s" index="1">ime</arg>&apos;, unconnected in block instance &apos;<arg fmt="%s" index="2">u2</arg>&apos;, is tied to GND.
+</msg>
+
+<msg type="warning" file="Xst" num="2898" delta="old" >Port &apos;<arg fmt="%s" index="1">ulaz_2</arg>&apos;, unconnected in block instance &apos;<arg fmt="%s" index="2">u3</arg>&apos;, is tied to GND.
+</msg>
+
+<msg type="warning" file="Xst" num="2898" delta="old" >Port &apos;<arg fmt="%s" index="1">ulaz_1</arg>&apos;, unconnected in block instance &apos;<arg fmt="%s" index="2">u4</arg>&apos;, is tied to GND.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">/home/ise/Desktop/djordje_ilic_648_projekat/koder.v</arg>&quot; line <arg fmt="%s" index="2">81</arg>: Output port &lt;<arg fmt="%s" index="3">izlaz_2</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u1</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">/home/ise/Desktop/djordje_ilic_648_projekat/koder.v</arg>&quot; line <arg fmt="%s" index="2">82</arg>: Output port &lt;<arg fmt="%s" index="3">izlaz_1</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u2</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">/home/ise/Desktop/djordje_ilic_648_projekat/koder.v</arg>&quot; line <arg fmt="%s" index="2">84</arg>: Output port &lt;<arg fmt="%s" index="3">izlaz2_dec</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u3</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">/home/ise/Desktop/djordje_ilic_648_projekat/koder.v</arg>&quot; line <arg fmt="%s" index="2">85</arg>: Output port &lt;<arg fmt="%s" index="3">izlaz1_dec</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="1767" delta="old" >HDL ADVISOR - Resource sharing has identified that some arithmetic operations in this design can share the same physical resources for reduced device utilization. For improved clock frequency you may try to disable resource sharing.
+</msg>
+
+</messages>
+

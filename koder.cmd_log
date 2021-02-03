@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/Desktop/djordje_ilic_648_projekat/koder.xst" -ofn "/home/ise/Desktop/djordje_ilic_648_projekat/koder.syr" 
+xst -intstyle ise -ifn "/home/ise/Desktop/djordje_ilic_648_projekat/koder.xst" -ofn "/home/ise/Desktop/djordje_ilic_648_projekat/koder.syr" 
